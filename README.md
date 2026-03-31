@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋 
 
-<!--
-**leumastrycode/leumastrycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leumas, a Frontend Engineer based in Indonesia.
 
-Here are some ideas to get you started:
+I enjoy building responsive and clean user interfaces for web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly working with React, TypeScript, CSS, and Tailwind.
+I design interfaces in Figma, it’s one of my favorite tools.
+
+Currently learning more about performance optimization.
+
+Fun facts:
+
+ ☕ Coffee and tea enjoyer
+ ▶️ Watching YouTube in my spare time
+ 🎮 Into “good” gacha games (love the grind)
+ 🎧 Always listening to music while working
