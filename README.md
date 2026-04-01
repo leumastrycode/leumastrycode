@@ -1,65 +1,44 @@
-<div align="center">
+# Hi there, I'm Samuel! 👋
 
-# 👾 SAMUEL.exe | Frontend Engineer
-**Designing with precision, coding with performance.**
+### 🚀 Frontend Engineer | UI Enthusiast | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=React+%26+TypeScript+Dev;Figma+to+Code+Specialist;Performance+Optimizer;Gacha+Game+Grinder)](https://git.io/typing-svg)
-
----
-
-### 🛠️ The Tech Blueprint
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+I’m a **Frontend Engineer** based in Indonesia who loves the art of turning complex problems into clean, responsive, and pixel-perfect user interfaces. I bridge the gap between design and code, ensuring that every interaction feels intuitive and smooth.
 
 ---
 
-### 📊 System Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+## 🛠️ My Tech Toolbox
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" />
-</p>
-
----
-
-### ⚙️ Operating System (Lifestyle)
-<table align="center">
-  <tr>
-    <td>
-      <b>☕ Beverage.js</b><br>
-      Coffee & Tea enjoyer
-    </td>
-    <td>
-      <b>🎧 Background_Music.mp3</b><br>
-      Coding fuel strictly enabled
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🎮 Daily_Quest.gacha</b><br>
-      Love the grind, chasing the RNG
-    </td>
-    <td>
-      <b>▶️ Learning_Loop.yt</b><br>
-      YouTube rabbit holes for life
-    </td>
-  </tr>
-</table>
+| Category          | Technologies                                                                       |
+| ----------------- | ---------------------------------------------------------------------------------- |
+| **Core** | React, TypeScript, JavaScript (ES6+)                                              |
+| **Styling** | CSS3, Tailwind CSS, Styled Components                                             |
+| **Design** | Figma (My go-to for bringing ideas to life)                                        |
+| **Currently Learning** | Performance Optimization & Web Vitals ⚡                                     |
 
 ---
 
-### ⚡ Current Status: `Optimizing Performance`
-```js
-const status = {
-  location: "Indonesia",
-  focus: ["Responsive UI", "Web Vitals", "Design Systems"],
-  hobbies: ["Gacha Games", "Music", "Tea Tasting"],
-  askMeAbout: ["Figma workflow", "Tailwind tips"]
-};
+## 🎨 What I Do
+- **Build:** Crafting scalable web applications with a focus on clean architecture.
+- **Design:** Creating modern UIs in Figma before a single line of code is written.
+- **Optimize:** Currently deep-diving into making the web faster and more efficient.
+
+---
+
+## ☕ Beyond the Code
+
+When I'm not staring at a code editor or tweaking pixels in Figma, you can find me:
+
+* **Fueling up:** A dedicated coffee and tea enjoyer.
+* **Learning:** Diving down the YouTube rabbit hole for new insights.
+* **Gaming:** Grinding through "good" gacha games (yes, I actually enjoy the grind).
+* **Vibing:** Work is always better with a curated playlist in my ears. 🎧
+
+---
+
+## 📬 Connect with Me
+
+- 💼 [LinkedIn](your-link-here)
+- 🐦 [Twitter/X](your-link-here)
+- 📧 [Email](mailto:your-email@example.com)
+
+**"Code is like humor. When you have to explain it, it’s bad."**
