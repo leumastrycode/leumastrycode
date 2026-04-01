@@ -6,6 +6,12 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 
 ---
 
+## 📊 GitHub Stats
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
 ## 🛠️ My Tech Toolbox
 
 | Category          | Technologies                                                                       |
@@ -17,10 +23,12 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 
 ---
 
-## 🎨 What I Do
-- **Build:** Crafting scalable web applications with a focus on clean architecture.
-- **Design:** Creating modern UIs in Figma before a single line of code is written.
-- **Optimize:** Currently deep-diving into making the web faster and more efficient.
+## 🌟 Featured Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Project One Name]** | A brief sentence about what this cool app does. | React, Tailwind |
+| **[Project Two Name]** | Another awesome project that solves a specific problem. | TS, Figma |
 
 ---
 
@@ -37,8 +45,7 @@ When I'm not staring at a code editor or tweaking pixels in Figma, you can find 
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](your-link-here)
-- 🐦 [Twitter/X](your-link-here)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📧 [Email](mailto:your-email@example.com)
 
 **"Code is like humor. When you have to explain it, it’s bad."**
