@@ -11,7 +11,7 @@ Currently learning more about performance optimization.
 
 Fun facts:
 
- ☕ Coffee and tea enjoyer
- ▶️ Watching YouTube in my spare time
- 🎮 Into “good” gacha games (love the grind)
- 🎧 Always listening to music while working
+☕ Coffee and tea enjoyer
+▶️ Watching YouTube in my spare time
+🎮 Into “good” gacha games (love the grind)
+🎧 Always listening to music while working
