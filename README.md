@@ -7,8 +7,8 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 ---
 
 ## 📊 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=leumastrycode&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leumastrycode&layout=compact&theme=radical)
 
 ---
 
