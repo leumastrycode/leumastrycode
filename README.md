@@ -8,10 +8,13 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leumastrycode&show_icons=true&theme=radical" alt="Samuel's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leumastrycode&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leumastrycode&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Samuel's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leumastrycode&layout=compact&theme=radical&hide_border=false" alt="Top Langs" height="170px" />
 </p>
+
+> [!TIP]
+> *If the stats above are not loading, it's likely a temporary issue with the GitHub Stats service. Please check back later!*
 
 ---
 
@@ -21,8 +24,8 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 | :--- | :--- |
 | **Core** | React, TypeScript, JavaScript (ES6+) |
 | **Styling** | CSS3, Tailwind CSS, Styled Components |
-| **Design** | Figma (My go-to for bringing ideas to life) |
-| **Currently Learning** | Performance Optimization & Web Vitals ⚡ |
+| **Design** | Figma (My favorite tool for UI/UX) |
+| **Learning** | Performance Optimization & Web Vitals ⚡ |
 
 ---
 
@@ -30,8 +33,8 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project One]** | A brief sentence about what this cool app does. | React, Tailwind |
-| **[Project Two]** | Another awesome project that solves a specific problem. | TS, Figma |
+| **Project One** | A brief sentence about what this cool app does. | React, Tailwind |
+| **Project Two** | Another awesome project that solves a specific problem. | TS, Figma |
 
 ---
 
@@ -41,8 +44,8 @@ When I'm not staring at a code editor or tweaking pixels in Figma, you can find 
 
 * **Fueling up:** A dedicated coffee and tea enjoyer. ☕
 * **Learning:** Diving down the YouTube rabbit hole for new insights. ▶️
-* **Gaming:** Grinding through "good" gacha games (yes, I actually enjoy the grind). 🎮
-* **Vibing:** Work is always better with a curated playlist in my ears. 🎧
+* **Gaming:** Into “good” gacha games (I love the grind). 🎮
+* **Vibing:** Always listening to music while working. 🎧
 
 ---
 
@@ -51,4 +54,8 @@ When I'm not staring at a code editor or tweaking pixels in Figma, you can find 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📧 [Email](mailto:your-email@example.com)
 
-> "Code is like humor. When you have to explain it, it’s bad."
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
