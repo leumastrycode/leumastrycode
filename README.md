@@ -1,38 +1,39 @@
-# Hi there, I'm Samuel! 👋
+<h1 align="center">Hey, I'm Samuel 👋</h1>
+<p align="center">
+  <b>Frontend Engineer | Design Enthusiast | UI Artisan</b>
+</p>
 
-I'm a **Frontend Engineer** based in Indonesia with a passion for crafting clean, responsive, and user-centric web experiences. I sit at the intersection of design and code, ensuring that every pixel has a purpose.
-
-### 🚀 What I'm up to
-- 💻 Building sleek interfaces primarily with **React**, **TypeScript**, and **Tailwind CSS**.
-- 🎨 Designing modern UI/UX in **Figma** (my happy place).
-- ⚡ Currently diving deep into **Web Performance Optimization** to make the web faster.
+<br>
 
 ---
 
-### 🛠️ My Tech Stack
+### ✦ The System Specs
+I build web applications where **aesthetic meets performance**. My workflow bridges the gap between Figma prototypes and pixel-perfect code.
 
-**Frontend & Logic**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Styling & Design**
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Category | My Toolkit |
+| :--- | :--- |
+| **Logic & UI** | React, TypeScript |
+| **Styling** | Tailwind CSS, CSS3 |
+| **Design** | Figma (My creative playground) |
+| **Current Quest** | Mastering Advanced Performance Optimization |
 
 ---
 
-### ☕ Beyond the Code
-When I'm not pushing pixels or debugging components, you can find me:
-- **Sipping:** Alternating between coffee and tea depending on the vibe.
-- **Grinding:** Playing "good" gacha games (yes, I actually enjoy the grind).
-- **Watching:** Learning new things (or just falling down rabbit holes) on YouTube.
-- **Listening:** My work is 100% fueled by music—I'm always plugged in.
+### 🕹️ Status Report
+*`Status: Always plugged in.`*
 
-### 📫 Let's Connect!
-- [LinkedIn](your-link-here)
-- [Personal Website / Portfolio](your-link-here)
-- [Email](mailto:your-email@example.com)
+- ☕ **Fuel:** Coffee & Tea.
+- 🎧 **Audio:** Lo-fi beats, synthwave, or whatever keeps the flow state going.
+- 🎮 **Strategy:** Currently deep in a "good" gacha grind.
+- 📺 **Input:** Curating my YouTube watch later list (it's getting long).
 
-*"The best way to predict the future is to design it."*
+---
+
+### 🚀 Let's Build Something
+I’m always open to discussing frontend patterns, design systems, or the latest gacha banner.
+
+[**Check out my Portfolio**](link) • [**Connect on LinkedIn**](link) • [**Send an Email**](mailto:you@example.com)
+
+<p align="center">
+  <i>"Code is the canvas, performance is the craft."</i>
+</p>
