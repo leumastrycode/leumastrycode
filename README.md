@@ -9,12 +9,10 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leumastrycode&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Samuel's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leumastrycode&layout=compact&theme=radical&hide_border=false" alt="Top Langs" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leumastrycode&show_icons=true&theme=radical&cache_seconds=86400" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leumastrycode&layout=compact&theme=radical&cache_seconds=86400" height="170px"/>
 </p>
 
-> [!TIP]
-> *If the stats above are not loading, it's likely a temporary issue with the GitHub Stats service. Please check back later!*
 
 ---
 
