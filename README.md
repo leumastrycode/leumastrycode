@@ -1,6 +1,6 @@
-Hi there 👋 
+<h1 align="center"> Hi there, I'm Samuel 👋  </h1>
 
-I'm Leumas, a Frontend Engineer based in Indonesia.
+I'm Samuel, a Frontend Engineer based in Indonesia.
 
 I enjoy building responsive and clean user interfaces for web apps.
 
