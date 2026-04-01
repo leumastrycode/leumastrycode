@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Samuel 👋  </h1>
+<h2 align="center"> Hi there, I'm Samuel 👋  </h2>
 
 I'm Samuel, a Frontend Engineer based in Indonesia.
 
