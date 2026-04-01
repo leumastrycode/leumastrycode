@@ -9,8 +9,8 @@ I’m a **Frontend Engineer** based in Indonesia who loves the art of turning co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leumastrycode&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leumastrycode&layout=compact&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leumastrycode&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leumastrycode&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
 
